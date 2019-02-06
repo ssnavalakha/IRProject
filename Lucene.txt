@@ -1,0 +1,132 @@
+what articles exist which deal with tss time sharing system an operating system for ibm computers  system operating time jb
+Found 0 hits.
+i am interested in articles written either by prieve or udo pooch prieve b pooch u  system space storage page
+Found 0 hits.
+intermediate languages used in construction of multi-targeted compilers tcoll  parser compiler usage languages
+Found 0 hits.
+im interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message-passing are examples of my interests  programming data languages control
+Found 0 hits.
+id like papers on design and implementation of editing interfaces window-managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction  system retrieval 
+of language
+Found 0 hits.
+interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion  disk frame surface jb
+Found 0 hits.
+i am interested in distributed algorithms - concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault-tolerance and techniques for understanding the correctness of these algorithms  problem systems concurrent programming
+Found 0 hits.
+addressing schemes for resources in networks resource addressing in network operating systems  systems system memory 
+of
+Found 0 hits.
+security considerations in local networks network operating systems and distributed systems  distributed information social networks
+Found 0 hits.
+parallel languages languages for parallel computation  programming language design criteria
+Found 0 hits.
+setl very high level languages  language programmers data programming
+Found 0 hits.
+portable operating systems  portable operating random language
+Found 0 hits.
+code optimization for space efficiency  code expressions object global
+Found 0 hits.
+find all discussions of optimal implementations of sort algorithms for database management applications  system list processing database
+Found 0 hits.
+find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization  flow analysis algorithm program
+Found 0 hits.
+find all descriptions of file handling in operating systems based on multiple processes and message passing  processes set codes supervisor
+Found 0 hits.
+optimization of intermediate and machine code  object machine 1978 index
+Found 0 hits.
+languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction  languages legal translation february
+Found 0 hits.
+parallel algorithms  parallel time algorithm zeros
+Found 0 hits.
+graph theoretic algorithms applicable to sparse matrices  algorithm matrix sparse precedence
+Found 0 hits.
+computational complexity intractability class-complete reductions algorithms and efficiency  complexity computational algorithms convex
+Found 0 hits.
+i am interested in hidden-line and hidden-surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics  clipping graphics jb algorithms
+Found 0 hits.
+distributed computing structures and algorithms  distributed information computing matrix
+Found 0 hits.
+applied stochastic processes  system data march acm
+Found 0 hits.
+performance evaluation and modelling of computer systems  system performance design models
+Found 0 hits.
+concurrency control mechanisms in operating systems  protection system control access
+Found 0 hits.
+memory management aspects of operating systems  memory system operating paging
+Found 0 hits.
+any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network  computer network networks packet
+Found 0 hits.
+number-theoretic algorithms especially involving prime number series sieves and chinese remainder theorem  complement arithmetic number focus
+Found 0 hits.
+articles on text formatting systems including what you see is what you get systems examples tnroff scribe bravo  errors intentional privacy program
+Found 0 hits.
+id like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c  image digital processing algorithms
+Found 0 hits.
+id like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph im especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method  graph problems algorithm edges
+Found 0 hits.
+articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero-one matrices im especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7, no 1 1970); g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8, no 4 1971). davis c kahn w stewart g  matrix tridiagonal linear algorithm
+Error
+currently interested in isolation of root of polynomial there is an old more recent material heindel l  method problem event queries
+Found 0 hits.
+probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabinm  probabilistic storage jb january
+Found 0 hits.
+fast algorithm for context-free language recognition or parsing  contextfree parsing algorithm recognition
+Found 0 hits.
+articles describing the relationship between data types and concurrency eg what is the type of a process when is a synchronization attempt between two processes type correct in a message-passing system is there any notion of the types of messages--ie any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type  type data checking errors
+Found 0 hits.
+what is the type of a module i dont want the entire literature on abstract data types here but im not sure how to phrase this to avoid it im interested in questions about how one can check that a module matches contexts in which it is used  data documentation type objects
+Found 0 hits.
+what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer-supplied definitions of operators like    data types languages programming
+Found 0 hits.
+list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages eg catch any languages with interesting type structures that i might have missed  data type checking languages
+Found 0 hits.
+theory of distributed systems and databases subtopics of special interest include reliability and fault-tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520  distributed processes events ordering
+Found 0 hits.
+computer performance evaluation techniques using pattern recognition and clustering la 70803  recognition pattern procedure 
+the
+Found 0 hits.
+analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two-dimensional shapes measures of circularity shape matching  method random gamma shape
+Found 0 hits.
+texture analysis by computer digitized texture analysis texture synthesis perception of texture  method regions analysis 1978
+Found 0 hits.
+the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases  data secondary base index
+Found 0 hits.
+the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations  retrieval information query term
+Found 0 hits.
+the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search  retrieval information 
+of tree
+Found 0 hits.
+the use of computer science principles eg data structures numerical methods in generating optimization eg linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms  input analysis jb 1978
+Found 0 hits.
+the role of information retrieval in knowledge based systems ie expert systems  retrieval information system term
+Found 0 hits.
+parallel processors in information retrieval  parallel algorithm processing processors
+Found 0 hits.
+parallel processors and paging algorithms  parallel processors processing algorithm
+Found 0 hits.
+modelling and simulation in agricultural ecosystems  simulation digital computer model
+Found 0 hits.
+mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210  program precedence march jb
+Found 0 hits.
+semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003  data programs types programming
+Found 0 hits.
+anything dealing with star height of regular languages or regular expressions or regular events  regular system state processor
+Found 0 hits.
+articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages  regular state automata system
+Found 0 hits.
+abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979), 629-630 backus j de millo r lipton r perlis a  programs programming output style
+Error
+algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest students t test wilcoxon and sign tests multivariate and univariate components can be included  statistical data network distributed
+Found 0 hits.
+dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems  language natural english questions
+Found 0 hits.
+hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc  systems hardware system errors
+Found 0 hits.
+information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co-citations the vector space model boolean search methods using inverted files feedback etc salton g  information retrieval data search
+Found 0 hits.
+results relating parallel complexity theory both for prams and uniform circuits  text memory program language
+Found 0 hits.
+algorithms for parallel computation and especially comparisons between parallel and sequential algorithms  parallel algorithm algorithms zeros
+Found 0 hits.
+list all articles on el1 and ecl el1 may be given as el1; i dont remember how they did it  data list types graph
+Found 0 hits.
